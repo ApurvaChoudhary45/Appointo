@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "69026c058e447b331bb9c8f1"
+  },
+  "name": "Apurva Singh Choudhary",
+  "email": "apurvasinghchoudhary@gmail.com",
+  "password": "$2b$10$Z3YRLyu/WYqdPkYYK3DBS.ANmD1sA/STmIm0Oz15fGdxoIck/idxG"
+},
+{
+  "_id": {
+    "$oid": "69026d5334c112230d97d364"
+  },
+  "name": "Martin Philips",
+  "email": "martinphilips123@outlook.com",
+  "password": "$2b$10$5khDhCLXpSbp7G/xq4kERusLqgqXWypc6/ILxZC4pPPQQRRDYr4MK"
+}]

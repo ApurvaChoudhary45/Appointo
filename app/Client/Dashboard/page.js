@@ -27,7 +27,9 @@ const Dashboard = () => {
   ]
 
  const copylink = async(link)=> {
-  await navigator.clipboard.writeText(link)
+   const baseUrl = window.location.origin; // dynamically gets correct domain
+  const fullUrl = `${baseUrl}${link}`;
+  await navigator.clipboard.writeText(fullUrl)
   alert('Linked copied to the clipboard.')
  }
 
@@ -99,7 +101,7 @@ const Dashboard = () => {
               <p className={`text-gray-700 mt-2 ${darkModer ? 'text-white' : 'text-black'} text-xs md:text-md`}>
                { `/Client/book/${clientData?.slug}`}
               </p>
-              <CopyIcon className='w-4 h-4 hover:text-blue-400 cursor-pointer' onClick={()=>copylink(`http://localhost:3000/Client/book/${clientData?.slug}`)}/>
+              <CopyIcon className='w-4 h-4 hover:text-blue-400 cursor-pointer' onClick={()=>copylink(`/Client/book/${clientData?.slug}`)}/>
               </div>
               <span className={`text-xs ${darkModer ? 'text-white' : 'text-black'}`}>Note:-Share this link with your clients to receive bookings.</span>
               

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6908fd67150b004875914bd0"
+  },
+  "name": "Apurva Singh Choudhary",
+  "email": "taker210wrestlemania@gmail.com",
+  "date": "Fri Nov 07 2025",
+  "time": "02:39 am",
+  "service": "Yoga Classes",
+  "phone": "07004377129",
+  "price": "₹1500",
+  "slug": "fitlife"
+}]

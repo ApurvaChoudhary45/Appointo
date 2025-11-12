@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "69070e8a5df7122cb651c9c0"
+  },
+  "ServiceName": "Salon & Spa",
+  "Slug": "salonspa",
+  "TagLine": "Your beauty, our duty.",
+  "Description": "Relax, rejuvenate, and rediscover your glow with our premium salon and spa services. Because self-care isn’t luxury — it’s essential.",
+  "Img1": "https://www.pexels.com/download/video/4178342/",
+  "Img2": "https://images.pexels.com/photos/6663374/pexels-photo-6663374.jpeg",
+  "Img3": "https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg",
+  "Img4": "https://images.pexels.com/photos/7755558/pexels-photo-7755558.jpeg"
+},
+{
+  "_id": {
+    "$oid": "69070e8a5df7122cb651c9c1"
+  },
+  "ServiceName": "Gym & Fitness",
+  "Slug": "fitlife",
+  "TagLine": "Transform your body, elevate your life.",
+  "Description": "Push your limits with modern equipment, expert trainers, and personalized routines. Fitness is not a destination — it’s a lifestyle.",
+  "Img1": "https://www.pexels.com/download/video/5319759/",
+  "Img2": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg",
+  "Img3": "https://images.pexels.com/photos/241456/pexels-photo-241456.jpeg",
+  "Img4": "https://images.pexels.com/photos/5710976/pexels-photo-5710976.jpeg"
+},
+{
+  "_id": {
+    "$oid": "69070e8a5df7122cb651c9c2"
+  },
+  "ServiceName": "Freelance Consulting",
+  "Slug": "freelancerhub",
+  "TagLine": "Expert advice, on your schedule.",
+  "Description": "Connect with skilled freelancers and consultants who bring ideas to life. From design to development — expertise is just a click away.",
+  "Img1": "https://www.pexels.com/download/video/7272375/",
+  "Img2": "https://images.pexels.com/photos/6894103/pexels-photo-6894103.jpeg",
+  "Img3": "https://images.pexels.com/photos/56759/pexels-photo-56759.jpeg",
+  "Img4": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg"
+}]

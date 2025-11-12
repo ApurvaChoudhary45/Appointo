@@ -1,0 +1,303 @@
+[{
+  "_id": {
+    "$oid": "6907ae0cba9e649cb1fc665f"
+  },
+  "servName": "SalonSpa",
+  "slug": "salonspa",
+  "title": "Pamper Yourself at SalonSpa",
+  "desc": "Discover luxury and relaxation like never before. From soothing spa treatments to stylish haircuts, SalonSpa brings you premium beauty services designed to make you look and feel your best. Book your next pampering session today.",
+  "services": [
+    {
+      "id": "salon-1",
+      "serviceName": "Luxury Haircut",
+      "location": "Mumbai, India",
+      "price": "₹1200",
+      "description": "Experience a stylish haircut with expert stylists and premium products.",
+      "image": "https://images.pexels.com/photos/3993320/pexels-photo-3993320.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-2",
+      "serviceName": "Spa Therapy",
+      "location": "Delhi, India",
+      "price": "₹2500",
+      "description": "Relax your mind and body with our full-body aromatic spa therapy.",
+      "image": "https://images.pexels.com/photos/3764552/pexels-photo-3764552.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-3",
+      "serviceName": "Hair Coloring",
+      "location": "Bangalore, India",
+      "price": "₹2000",
+      "description": "Choose from the latest shades and trends with expert coloring services.",
+      "image": "https://images.pexels.com/photos/7388937/pexels-photo-7388937.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-4",
+      "serviceName": "Facial Glow Treatment",
+      "location": "Hyderabad, India",
+      "price": "₹1800",
+      "description": "Get radiant skin with our organic glow facial treatment.",
+      "image": "https://images.pexels.com/photos/6663368/pexels-photo-6663368.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-5",
+      "serviceName": "Bridal Makeup",
+      "location": "Jaipur, India",
+      "price": "₹8000",
+      "description": "Look stunning on your big day with our professional bridal makeup artists.",
+      "image": "https://images.pexels.com/photos/265720/pexels-photo-265720.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-6",
+      "serviceName": "Manicure & Pedicure",
+      "location": "Pune, India",
+      "price": "₹1500",
+      "description": "Pamper your hands and feet with our luxurious manicure and pedicure service.",
+      "image": "https://images.pexels.com/photos/332046/pexels-photo-332046.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-7",
+      "serviceName": "Hair Spa",
+      "location": "Kolkata, India",
+      "price": "₹1700",
+      "description": "Rejuvenate your hair with our deep-nourishing hair spa treatments.",
+      "image": "https://images.pexels.com/photos/8834067/pexels-photo-8834067.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-8",
+      "serviceName": "Beard Styling",
+      "location": "Chandigarh, India",
+      "price": "₹600",
+      "description": "Perfect your look with expert beard trimming and styling.",
+      "image": "https://images.pexels.com/photos/7518727/pexels-photo-7518727.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-9",
+      "serviceName": "Head Massage",
+      "location": "Goa, India",
+      "price": "₹1000",
+      "description": "Relax and rejuvenate with our soothing head massage service.",
+      "image": "https://images.pexels.com/photos/4599432/pexels-photo-4599432.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "salon-10",
+      "serviceName": "Nail Art",
+      "location": "Ahmedabad, India",
+      "price": "₹1200",
+      "description": "Express your style with creative and trendy nail art designs.",
+      "image": "https://images.pexels.com/photos/3422099/pexels-photo-3422099.jpeg",
+      "button": "Book Now"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6907ae0cba9e649cb1fc6660"
+  },
+  "servName": "FreelancerHub",
+  "slug": "freelancerhub",
+  "title": "Hire Top Freelancers at FreelancerHub",
+  "desc": "Connect with skilled professionals across web development, design, content, and marketing. At FreelancerHub, we make it easy for you to find reliable freelancers and get your projects delivered on time — with quality guaranteed.",
+  "services": [
+    {
+      "id": "freelancer-1",
+      "serviceName": "Web Development",
+      "location": "Remote",
+      "price": "$500/project",
+      "description": "Build modern websites using React, Next.js, and Node.js.",
+      "image": "https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-2",
+      "serviceName": "Graphic Design",
+      "location": "Remote",
+      "price": "$300/project",
+      "description": "Get high-quality logos, posters, and branding materials.",
+      "image": "https://images.pexels.com/photos/1789968/pexels-photo-1789968.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-3",
+      "serviceName": "Digital Marketing",
+      "location": "Remote",
+      "price": "$400/month",
+      "description": "Grow your online presence with SEO and social media strategies.",
+      "image": "https://images.pexels.com/photos/3082341/pexels-photo-3082341.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-4",
+      "serviceName": "Content Writing",
+      "location": "Remote",
+      "price": "$100/article",
+      "description": "Engaging blog and website content tailored to your niche.",
+      "image": "https://images.pexels.com/photos/7818111/pexels-photo-7818111.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-5",
+      "serviceName": "App Development",
+      "location": "Remote",
+      "price": "$800/project",
+      "description": "Custom Android and iOS apps with modern UI/UX.",
+      "image": "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-6",
+      "serviceName": "UI/UX Design",
+      "location": "Remote",
+      "price": "$350/project",
+      "description": "Intuitive interface and user experience designs for apps and websites.",
+      "image": "https://images.pexels.com/photos/3471423/pexels-photo-3471423.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-7",
+      "serviceName": "Video Editing",
+      "location": "Remote",
+      "price": "$200/video",
+      "description": "Professional editing for YouTube, ads, and reels.",
+      "image": "https://images.pexels.com/photos/8102676/pexels-photo-8102676.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-8",
+      "serviceName": "Social Media Management",
+      "location": "Remote",
+      "price": "$300/month",
+      "description": "Let experts manage your social media accounts and boost engagement.",
+      "image": "https://images.pexels.com/photos/7414216/pexels-photo-7414216.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-9",
+      "serviceName": "Translation Services",
+      "location": "Remote",
+      "price": "$100/document",
+      "description": "Accurate translations across 10+ languages for your business needs.",
+      "image": "https://images.pexels.com/photos/7188934/pexels-photo-7188934.jpeg",
+      "button": "Hire Now"
+    },
+    {
+      "id": "freelancer-10",
+      "serviceName": "Virtual Assistance",
+      "location": "Remote",
+      "price": "$250/month",
+      "description": "Hire virtual assistants for admin, scheduling, and data tasks.",
+      "image": "https://images.pexels.com/photos/7709155/pexels-photo-7709155.jpeg",
+      "button": "Hire Now"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6907ae0cba9e649cb1fc6661"
+  },
+  "servName": "FitLife",
+  "slug": "fitlife",
+  "title": "Transform Your Body with FitLife",
+  "desc": "Push your limits and achieve your fitness goals with our expert trainers, modern equipment, and customized programs. Whether it’s strength, stamina, or mindfulness — FitLife has everything you need to stay in shape.",
+  "services": [
+    {
+      "id": "fitlife-1",
+      "serviceName": "Personal Training",
+      "location": "Delhi, India",
+      "price": "₹3500/month",
+      "description": "Get one-on-one sessions with certified personal trainers.",
+      "image": "https://images.pexels.com/photos/2204196/pexels-photo-2204196.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-2",
+      "serviceName": "Yoga Classes",
+      "location": "Bangalore, India",
+      "price": "₹1500/month",
+      "description": "Find your balance with our guided yoga sessions.",
+      "image": "https://images.pexels.com/photos/4587290/pexels-photo-4587290.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-3",
+      "serviceName": "Zumba Sessions",
+      "location": "Mumbai, India",
+      "price": "₹1800/month",
+      "description": "Dance your way to fitness with energetic Zumba sessions.",
+      "image": "https://images.pexels.com/photos/4090009/pexels-photo-4090009.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-4",
+      "serviceName": "Strength Training",
+      "location": "Hyderabad, India",
+      "price": "₹2200/month",
+      "description": "Improve muscle strength and endurance with expert supervision.",
+      "image": "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-5",
+      "serviceName": "CrossFit Program",
+      "location": "Chennai, India",
+      "price": "₹3000/month",
+      "description": "Challenge your limits with our advanced CrossFit training.",
+      "image": "https://images.pexels.com/photos/116079/pexels-photo-116079.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-6",
+      "serviceName": "Cardio Zone",
+      "location": "Pune, India",
+      "price": "₹1500/month",
+      "description": "Boost stamina and burn calories with our modern cardio equipment.",
+      "image": "https://images.pexels.com/photos/5039659/pexels-photo-5039659.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-7",
+      "serviceName": "Diet Consultation",
+      "location": "Kolkata, India",
+      "price": "₹1200/session",
+      "description": "Get customized diet plans from certified nutritionists.",
+      "image": "https://images.pexels.com/photos/8844568/pexels-photo-8844568.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-8",
+      "serviceName": "Pilates Sessions",
+      "location": "Ahmedabad, India",
+      "price": "₹2000/month",
+      "description": "Enhance your flexibility and posture through pilates training.",
+      "image": "https://images.pexels.com/photos/25596679/pexels-photo-25596679.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-9",
+      "serviceName": "Body Transformation Program",
+      "location": "Indore, India",
+      "price": "₹5000/month",
+      "description": "Transform your body with a mix of workouts and nutrition guidance.",
+      "image": "https://images.pexels.com/photos/15046713/pexels-photo-15046713.jpeg",
+      "button": "Book Now"
+    },
+    {
+      "id": "fitlife-10",
+      "serviceName": "Sports Conditioning",
+      "location": "Lucknow, India",
+      "price": "₹2500/month",
+      "description": "Enhance performance with professional sports conditioning training.",
+      "image": "https://images.pexels.com/photos/4804040/pexels-photo-4804040.jpeg",
+      "button": "Book Now"
+    }
+  ]
+}]

@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6904bd23b969ce66344152a4"
+  },
+  "id": "user_34pDIm3YwdpGit6b2WPwFn0yN9G",
+  "name": "apurvachoudhary45",
+  "email": "badassmannu45@gmail.com",
+  "slug": "apurva"
+},
+{
+  "_id": {
+    "$oid": "690623774522f3fea96e7591"
+  },
+  "id": "user_34sl3J0qYhnT0lLD4ReD2x3LNOK",
+  "name": "Apurva Singh ",
+  "email": "apurvachoudhary45@gmail.com",
+  "slug": "salonspa",
+  "address": "Near Park Clinic, Park Market, Hirapur",
+  "businessname": "SalonSpa",
+  "description": "Business",
+  "phone": "7004377129",
+  "image": "https://files.edgestore.dev/mlyf5wl31s3bf2cx/publicFiles/_public/cf00cde3-a0fe-4faf-9ce3-b935dba42507.jpg"
+}]

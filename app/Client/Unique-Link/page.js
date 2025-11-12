@@ -54,7 +54,9 @@ const UniqueLink = () => {
 
 
     const copylink = async (link) => {
-        await navigator.clipboard.writeText(link)
+         const baseUrl = window.location.origin; // dynamically gets correct domain
+  const fullUrl = `${baseUrl}${link}`;
+        await navigator.clipboard.writeText(fullUrl)
         alert('Linked copied to the clipboard.')
     }
 
