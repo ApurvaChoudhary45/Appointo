@@ -4,7 +4,7 @@ import Link from "next/link";
 import { SignOutButton, useUser } from '@clerk/nextjs';
 import { useState } from "react";
 import { useAuth } from '@clerk/nextjs';
-// import { useEffect } from "react";
+import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
 export default function FirstTimeUserDashboard() {
